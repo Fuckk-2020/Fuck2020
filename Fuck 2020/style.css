@@ -1,0 +1,41 @@
+.forms{
+	font-family: 'Staatliches', cursive;
+	width: 13em;
+	height: 4em;
+	border: solid  #808B96 ;
+
+}
+.titulos{
+	font-family: 'Staatliches', cursive;
+
+}
+
+body{
+	background: #85929E ;
+
+
+}
+
+#form{
+	border: solid  black;
+
+width: 14em;
+	height: 14em;
+	padding-top:  15px 
+
+}
+
+#nav{
+
+	font-family: 'Staatliches', cursive;
+	list-style:none.
+
+}
+
+
+
+#Nav-Contact{
+
+	font-family: 'Staatliches', cursive;
+
+}
